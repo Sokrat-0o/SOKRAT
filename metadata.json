@@ -1,0 +1,6 @@
+{
+  "name": "SOKRAT Control Panel",
+  "description": "Рабочий каркас приложения SOKRAT на Python + CustomTkinter: красно-чёрная тема, терминальный интерфейс, аутентификация, Veyoff, DNS и шифрование.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+{
+  "dns_preset": "cloudflare",
+  "adapters": [
+    "Ethernet"
+  ],
+  "encrypt_paths": [],
+  "blacklist": [
+    "Firefox",
+    "Chrome",
+    "Signal"
+  ],
+  "veyoff_path": "veyoff\\veyoff-windows.exe"
+}
